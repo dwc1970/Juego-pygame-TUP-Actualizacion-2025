@@ -77,6 +77,7 @@ def main():
     explosiones = []
     puntos = 0
     nivel = 1
+    # Movimiento de boton de flechas 
 
     clock = pygame.time.Clock()
     running = True
